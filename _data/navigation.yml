@@ -1,8 +1,8 @@
 - name: Home
   link: /
-- name: Blog
+- name: Updates
   link: /blog/
-- name: About
+- name: Speakers
   link: /about/
 - name: Contact
   link: /contact/
