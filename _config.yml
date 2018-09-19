@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Complex Quantum System Dynamics
+title: New Trends in Complex Quantum Systems Dynamics
 url: "http://leonardopaccianimori.github.io"
 baseurl: "/"
 google_analytics_key:
@@ -10,15 +10,15 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: App marketing template for Jekyll.
+description: #App marketing template for Jekyll.
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Frisco Template
+  name: #Frisco Template
   links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+    #- https://github.com/CloudCannon/frisco-jekyll-template
 
 # -----
 # Build
@@ -104,5 +104,5 @@ social_icons:
   - RSS
 
 _comments:
-  description: Text shown when sharing on social media
-  blurb: Short bio or description of this person
+  description: #Text shown when sharing on social media
+  blurb: #Short bio or description of this person
