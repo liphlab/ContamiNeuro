@@ -41,7 +41,9 @@ exclude:
   - LICENCE
 
 collections:
-  staff_members:
+  speakers:
+    _hide_content: true
+  organizers:
     _hide_content: true
 
 paginate: 10

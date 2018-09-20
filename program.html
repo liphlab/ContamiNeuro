@@ -1,29 +1,50 @@
 ---
-title: Speakers
-description: Invited speakers.
+title: Program
+description: Program of the conference.
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Panorama_of_Canal_Grande_and_Ponte_di_Rialto%2C_Venice_-_September_2017.jpg/1920px-Panorama_of_Canal_Grande_and_Ponte_di_Rialto%2C_Venice_-_September_2017.jpg
 ---
 
 <section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
 	<div class="inner-hero text-container">
 		<div class="hero-text-container">
-			<h1 class="editable">Invited speakers</h1>
-			<p class="subtext editable">List of confirmed invited speakers.</p>
+			<h1 class="editable">Program</h1>
+			<p class="subtext editable">Program of the conference.</p>
 		</div>
 	</div>
 </section>
 
+<!--
 <section class="pad">
 	<div class="container">
-		<p class="editor-link"><a href="cloudcannon:collections/_staff_members" class="btn"><strong>&#9998;</strong> Manage Staff Members</a></p>
+		<p class="editor-link"><a href="cloudcannon:collections/_speakers" class="btn"><strong>&#9998;</strong> Manage Staff Members</a></p>
 		<ul class="staff">
-			{% for person in site.staff_members %}
-				<li>
+			{% for person in site.speakers %}
+				<li>-->
 					<!--<div class="square-image" style="background-image: url({% include relative-src.html src=person.image_path %})"></div>-->
+					<!--
 					<div class="name">{{ person.name }}</div>
 					<div class="position">{{ person.position }}</div>
 				</li>
 			{% endfor %}
 		</ul>
 	</div>
-</section>
+</section>-->
+
+<div class="content">
+	<section class="info" id="learn-more">
+		<div class="container flex">
+			<div class="text">
+				<h2 class="editable">Topics</h2>
+				<p>The program of the conference is still unavailable.</p>
+			</div>
+		</div>
+	</section>
+	<section class="info" id="learn-more">
+		<div class="container flex">
+			<div class="text">
+				<h2 class="editable">Abstract booklet</h2>
+				<p>The abstract booklet is still unavailable.</p>
+			</div>
+		</div>
+	</section>
+</div>
