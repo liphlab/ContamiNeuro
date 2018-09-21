@@ -3,6 +3,8 @@ left_links:
     link: /
   - name: Updates
     link: /blog/
+  - name: Registration
+    link: /registration/
   - name: Speakers
     link: /about/
   - name: Program
