@@ -7,4 +7,5 @@ categories:
 image: /images/rio_terese.jpg
 author_staff_member:
 ---
+
 The website is finally online!
