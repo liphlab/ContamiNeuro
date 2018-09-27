@@ -2,8 +2,8 @@
 # Site
 
 title: New Trends in Complex Quantum Systems Dynamics
-url: "http://leonardopaccianimori.github.io"
-baseurl: "/coquasd19"
+url: "http://cqs19.com"
+baseurl: ""
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
