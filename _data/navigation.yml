@@ -1,6 +1,6 @@
 - name: Home
   link: /
-- name: Updates
+- name: News
   link: /blog/
 - name: Registration
   link: /registration/
