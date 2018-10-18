@@ -2,13 +2,13 @@
 # Site
 
 title: New Trends in Complex Quantum Systems Dynamics
-url: "https://cqs19.com"
+url: "http://cqs19.com"
 baseurl: ""
 google_analytics_key: UA-126848811-1
 google_maps_javascript_api_key:
 disqus_shortname:
 
-# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+# Values for the jekyll-seo-tag gem (http://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: #App marketing template for Jekyll.
 author:
@@ -18,7 +18,7 @@ author:
 social:
   name: #Frisco Template
   links:
-    #- https://github.com/CloudCannon/frisco-jekyll-template
+    #- http://github.com/CloudCannon/frisco-jekyll-template
 
 # -----
 # Build
