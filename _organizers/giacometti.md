@@ -1,6 +1,6 @@
 ---
 name: Achille Giacometti
-position: Università di Padova
+position: Università di Venezia Ca' Foscari
 image_path: /images/logo_unive.png
 twitter_username:
 blurb:
