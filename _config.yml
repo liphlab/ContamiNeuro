@@ -3,7 +3,7 @@
 
 title: Summer School in Computational and Theoretical Models in Neuroscience
 url: "https://liphlab.github.io/ContamiNeuro"
-baseurl: "https://liphlab.github.io/ContamiNeuro"
+baseurl: "/ContamiNeuro"
 google_analytics_key: ""
 google_maps_javascript_api_key:
 disqus_shortname:
