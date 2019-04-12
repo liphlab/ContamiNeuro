@@ -8,4 +8,4 @@ image: /images/rio_terese.jpg
 author_staff_member:
 ---
 
-The preliminary program of the conference is now available! See the [program page](/program.html) for more information.
+The preliminary program of the conference is now available! See the [program page](files/preliminary_program_ConTamiNeuro.pdf) for more information.
