@@ -3,7 +3,7 @@ date: 2019-04-16
 description: project for working group
 categories:
   #- friends
-image: /images/rio_terese.jpg
+image:
 author_staff_member:
 ---
 
