@@ -2,9 +2,7 @@ title: Project 1-T4
 date: 2019-04-16
 description: project for working group
 categories:
-  #- friends
 image:
-author_staff_member:
 ---
 
 Here the description of the [project] (files/jmc.pdf) "Matching structure to function in multi-scale brain networks: from basic concepts to clinics" 
