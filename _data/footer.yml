@@ -1,14 +1,14 @@
 left_links:
   - name: Home
     link: /
-  - name: News
-    link: /blog/
   - name: Registration
     link: /registration/
   - name: Speakers
     link: /speakers/
   - name: Program
     link: /program/
+  - name: Working group projects
+    link: /blog/
   - name: Venue and logistics
     link: /venue/
   - name: Organizers and contacts
