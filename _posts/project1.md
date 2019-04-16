@@ -1,8 +1,11 @@
-title: Project 1-T4
+---
+title:  Project 1-Topic 4
 date: 2019-04-16
 description: project for working group
 categories:
-image:
+  #- friends
+image: /images/rio_terese.jpg
+author_staff_member:
 ---
 
 Here the description of the [project] (files/jmc.pdf) "Matching structure to function in multi-scale brain networks: from basic concepts to clinics" 
