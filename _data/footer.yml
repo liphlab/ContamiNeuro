@@ -7,11 +7,11 @@ left_links:
     link: /speakers/
   - name: Program
     link: /program/
-  - name: Group projects
+  - name: Projects
     link: /blog/
-  - name: Venue and logistics
+  - name: Logistics
     link: /venue/
-  - name: Organizers and contacts
+  - name: Contacts
     link: /organizers/
   #- name: Contact
   #  link: /contact/
